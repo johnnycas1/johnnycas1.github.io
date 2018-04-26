@@ -45,7 +45,7 @@ img {
 
 #sebas {
 	transition: transform 2s;
-	width: 	300px;
+	width: 	600px;
 	height: 400px;
 }
 
@@ -129,7 +129,7 @@ img {
 
 #miami {
 	transition: transform 1s;
-	width: 300px;
+	width: 350px;
 	height: 400px;
 	align-items: center;
 }
